@@ -1,6 +1,6 @@
 public class states{
-    String RLoc;// Domain: Coffee Shop (cs), Sam’s office (off), Mail Room (mr), or Laboratory (lab)
-    boolean RHC, SWC, MW, RHM;
+    private String RLoc;// Domain: Coffee Shop (cs), Sam’s office (off), Mail Room (mr), or Laboratory (lab)
+    private boolean RHC, SWC, MW, RHM;
     // Constructor
     public states(){
         RLoc = "off";
@@ -57,10 +57,7 @@ public class states{
     public void setRHM(boolean RHM){
         this.RHM = RHM;
     }
-    // Print the state
-    public void printState(){
-        System.out.println("RLoc: " + RLoc + " RHC: " + RHC + " SWC: " + SWC + " MW: " + MW + " RHM: " + RHM);
-    }
+   
     
 }
 

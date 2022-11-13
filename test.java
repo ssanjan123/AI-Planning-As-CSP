@@ -25,7 +25,7 @@ public class test {
         r.action("mc");
         r.action("DelC");
         // Print the final state
-        r.s.printState();
+        r.printState();
     }
     
 }
