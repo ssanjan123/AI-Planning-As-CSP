@@ -3,7 +3,7 @@
 This repository contains a solution for an AI delivery robot that navigates through a space using CSP (Constraint Satisfaction Problem) and STRIP (STRIPS Planning) models to deliver objects to the goal node. The solution is implemented in Java.
 
 
-<img src="https://user-images.githubusercontent.com/84153519/213351840-b83f4a66-eada-4615-860f-9af0222d64e9.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/84153519/213351840-b83f4a66-eada-4615-860f-9af0222d64e9.png" width="400" height="400">
 
 
 ## Getting Started
